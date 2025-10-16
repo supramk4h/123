@@ -1,0 +1,5 @@
+{
+  "name": "Chicken Sales & Accounting System",
+  "description": "A comprehensive dashboard for managing chicken sales, accounts, payments, and generating reports for a poultry business. Features include live data summaries, detailed account management for farms and customers, sales and payment tracking, and in-depth reporting.",
+  "requestFramePermissions": []
+}
